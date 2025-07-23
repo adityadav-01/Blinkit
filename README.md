@@ -50,6 +50,18 @@ This project analyzes Blinkit’s grocery sales and customer feedback data to ex
 
 ---
 
+## 📸 Dashboard Preview
+
+Here’s a quick look at the interactive dashboard visuals:
+
+![Main Dashboard](Dashboard%20Screenshots/DashBoard.png)
+
+![Establishment View](Dashboard%20Screenshots/Establishment.png)
+
+![Snack Food Analysis](Dashboard%20Screenshots/Snack%20Food.png)
+
+---
+
 ## ✅ Conclusion
 The Power BI dashboard offered an interactive, visual exploration of Blinkit's data, revealing important business insights that can guide marketing, inventory, and operational strategies.
 
